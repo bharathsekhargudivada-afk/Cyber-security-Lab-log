@@ -10,4 +10,8 @@ TRaffic data set EVM and plot a box type graph model to compare the two distinct
 
 week -4 
 AI case attacks 
-we are using adviserial attacs and by adding some noise using eplison values and we are checking wheater the machine is guessing which is correct and wrong by adding some noise on the images we are and checking machine check and by this evaluation we can check wheather the machine is foolied or not
+we are using adviserial attacs and by adding some noise using eplison values and we are checking wheater the machine is guessing which is correct and wrong by adding some noise on the images we are and checking machine check and by this evaluation we can check wheather the machine is foolied or not.
+
+week - 7 
+DES stands for Data Encryption Standard.
+AES stands for Advanced Encryption Standard.
