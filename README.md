@@ -18,3 +18,30 @@ classification on mail weather it is spam  or not spam using the given data set
 week - 7 
 DES stands for Data Encryption Standard.
 AES stands for Advanced Encryption Standard.
+
+week - 8
+Partner Name: Neyna
+p = 23
+g = 5
+private key 
+a = 6
+public key:
+A = g^a mod p
+A = 5^6 mod 23
+A = 8
+
+B = g^b mod p
+B = 5^15 mod 23
+B = 19
+
+shared secret:
+
+S = B^a mod p 
+S = 19^6 mod p
+S = 2
+
+S = A^b mod p 
+S = 8^15 mod P
+S = 2
+
+
