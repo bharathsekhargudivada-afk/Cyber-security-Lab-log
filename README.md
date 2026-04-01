@@ -6,7 +6,7 @@ accounts and promoted a Bitcoin scam.)
 they hacked the user of twitter whic are popular in their fields and they posted some random bitcoin sales for cheaper price and they have made millions of many using fake bitcoin post in twitter and twittwer team are late to find this issue and so many invested and unforunatly is fake.
 
 Week - 3
-TRaffic data set EVM and plot a box type graph model to compare the two distinct classes. testing the loss and training function.
+Traffic data set EVM and plot a box type graph model to compare the two distinct classes. testing the loss and training function.
 
 week -4 
 AI case attacks 
