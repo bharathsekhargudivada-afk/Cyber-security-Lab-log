@@ -21,6 +21,7 @@ we are using adviserial attacs and by adding some noise using eplison values and
 week -5
 Describe why the image does not have a structure?
 we are adding some noise to the image so that it can't be in readable way
+
 week-6
 classification on mail weather it is spam  or not spam using the given data set
 
