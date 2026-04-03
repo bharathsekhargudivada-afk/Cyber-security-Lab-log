@@ -18,6 +18,9 @@ week -4
 AI case attacks 
 we are using adviserial attacs and by adding some noise using eplison values and we are checking wheater the machine is guessing which is correct and wrong by adding some noise on the images we are and checking machine check and by this evaluation we can check wheather the machine is foolied or not.
 
+week -5
+Describe why the image does not have a structure?
+we are adding some noise to the image so that it can't be in readable way
 week-6
 classification on mail weather it is spam  or not spam using the given data set
 
