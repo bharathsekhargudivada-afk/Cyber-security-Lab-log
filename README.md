@@ -1,4 +1,10 @@
 # Cyber-security-Lab-log
+Week -1
+Data is divided into three parts:
+Training set: Used to train the model and learn patterns (usually 70%).
+Validation set: Used to tune the model and check performance during training (usually 15%).
+Test set: Used to evaluate the model on completely new data to see its real accuracy (usually 15%).
+(cybersecurity_attacks)Data Set
 
 week -2
 case study on Cyber attacks (Twitter Bitcoin Scam (2020) – Hackers gained access to high-profile Twitter
