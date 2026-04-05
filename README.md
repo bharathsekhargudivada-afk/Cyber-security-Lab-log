@@ -59,4 +59,7 @@ We encrypted block data using AES and mined it using three Proof-of-Work methods
 
 # Week -10
 
+I applied multiple Machine Learning models such as Decision Tree, KNN, Logistic Regression, Naive Bayes, Random Forest, and SVM. I also implemented Deep Learning models including a Neural Network (DNN), LSTM, and CNN.
+Each model was evaluated using Accuracy, Precision, Recall, and F1-score. Finally, I plotted a bar graph to compare the performance of all models and identify the best-performing algorithm.
+
 
