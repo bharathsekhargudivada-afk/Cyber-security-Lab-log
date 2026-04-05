@@ -1,5 +1,5 @@
 # Cyber-security-Lab-log
-#Week -1
+# Week -1
 Data is divided into three parts:
 Training set: Used to train the model and learn patterns (usually 70%).
 Validation set: Used to tune the model and check performance during training (usually 15%).
@@ -56,4 +56,7 @@ S = 2
 
 # Week -9
 We encrypted block data using AES and mined it using three Proof-of-Work methods: numeric threshold, pattern matching, and time-limited. Mining times for each method were measured and compared in a bar graph to show how different PoW approaches affect performance.
+
+# Week -10
+
 
